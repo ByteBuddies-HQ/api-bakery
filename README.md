@@ -3,6 +3,9 @@
 
 This template helps generate FastAPI project structures quickly and consistently across teams. It sets up a baseline structure, along with testing, linting, and version control configurations. Below is a detailed guide to get started with this template.
 
+For more info: [read the docs](https://cookiecutter.readthedocs.io/en/stable/)
+
+<br>
 
 ## Table of Contents
 1. [Features](#features)
