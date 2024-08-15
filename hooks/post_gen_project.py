@@ -9,5 +9,6 @@ def run():
     # Install pre-commit hooks
     subprocess.run(["poetry", "run", "pre-commit", "install"], check=True)
 
+
 if __name__ == "__main__":
     run()
