@@ -1,7 +1,7 @@
 # This is the API bakery...
 > a cookiecutter template
 
-This template helps generate FastAPI project structures quickly and consistently across teams. It sets up a baseline structure, along with testing, linting, and version control configurations. Below is a detailed guide to get started with this template.
+This template helps generate FastAPI project structures quickly and consistently across this team. It sets up a baseline structure, along with testing, linting, and version control configurations. Below is a guide to get started with this template.
 
 For more info: [read the docs](https://cookiecutter.readthedocs.io/en/stable/)
 
