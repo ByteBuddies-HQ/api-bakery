@@ -1,3 +1,11 @@
+<div align="center">
+
+   ![Python Badge](https://img.shields.io/badge/-Python-3B4252?style=flat&logo=python&logoColor=EBCB8B)
+  
+</div>
+
+<br>
+
 # This is the API bakery...
 > a cookiecutter template
 
